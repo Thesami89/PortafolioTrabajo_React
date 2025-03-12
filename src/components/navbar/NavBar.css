@@ -1,0 +1,30 @@
+.bloque_nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+.nombre_usuario{
+    font-family: "Raleway", serif;
+    font-weight: 400;
+}
+
+.nav{
+    display: flex;
+}
+
+.nav-bar{
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+
+}
+
+a{
+    text-decoration: none;
+    color: #464646;
+}
+
+.text-black{
+    color: black;
+}
+
