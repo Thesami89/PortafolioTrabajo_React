@@ -5,7 +5,7 @@ const NavBar = (props) =>{
 
     return <div className="bloque_nav">
         <h2 className="nombre_usuario">
-            Samuel Orozco
+            <strong>Samuel Orozco</strong>
         </h2>
         <nav >
             <ul className="nav-bar" >
@@ -14,7 +14,7 @@ const NavBar = (props) =>{
                 <li> <a href="#">{menu3}</a> </li>
                 <li> <a href="#">{menu4}</a> </li>
                 <li> <a href="#">{menu5}</a> </li>
-                <li> <a href="#" className='text-black'>{menu6}</a> </li>
+                <li> <a href="#" className='text-black'><strong>{menu6}</strong></a> </li>
                 
             </ul>
         </nav>

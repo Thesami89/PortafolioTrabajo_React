@@ -1,6 +1,7 @@
 .bloque_nav{
     display: flex;
     justify-content: space-around;
+    margin-bottom: 2rem;
 }
 
 .nombre_usuario{
@@ -26,5 +27,6 @@ a{
 
 .text-black{
     color: black;
+   
 }
 
