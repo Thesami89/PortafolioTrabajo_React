@@ -30,3 +30,24 @@ a{
    
 }
 
+.correo{
+    display: none;
+}
+
+@media (max-width: 430px) {
+
+    .bloque_nav{
+        justify-content: space-between;
+    }
+    .nav-bar{
+        display: none;
+    }
+
+    .correo{
+        display: block;
+        margin: 20px 0px;
+    }
+
+
+}
+

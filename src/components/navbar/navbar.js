@@ -17,6 +17,7 @@ const NavBar = (props) =>{
                 <li> <a href="#" className='text-black'><strong>{menu6}</strong></a> </li>
                 
             </ul>
+            <a href="#" className='correo'><strong>{menu6}</strong></a>
         </nav>
         
     </div>

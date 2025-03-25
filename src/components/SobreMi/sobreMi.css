@@ -1,4 +1,28 @@
-.h1{
+.sobreMi{
     background-color: #EAF2FD;
-    height: 500px;
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+    
 }
+
+.sobreMi_bloque{
+    max-width: 80%;
+}
+
+.sobreMi_bloque-titulo{
+    margin: 32px 0px 16px;
+    font-family: "Raleway", serif;
+    font-weight: 700;
+    color: #464646;
+    font-size: 2rem;
+}
+
+.sobreMi_bloque-parrafo{
+    margin-right: 23rem;
+    font-size: 16px;
+    font-family: "Raleway", serif;
+    font-weight: 400;
+    color: #464646;
+}
+

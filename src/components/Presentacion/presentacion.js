@@ -13,7 +13,7 @@ const Presentacion = () =>{
                 </p>
                 <div className="presentacion_redes">
                     <ul className='presentacion_redes-lista'> 
-                        <li><a href="#">Instagram <FiExternalLink /></a></li>
+                        <li><a href="https://www.instagram.com/thesami89/">Instagram <FiExternalLink /></a></li>
                         <li><a href="#">GitHub <FiExternalLink /></a></li>
                         <li><a href="#">Curriculum <FiExternalLink /></a></li>
                     </ul>
